@@ -12,7 +12,7 @@ public class BodyMassIndex {
         int product = value2 * value2;
         int result = value1 * 730;
         double division = (double)(result / product);
-        System.out.println("Multilpy inche by inche ");
+        System.out.println("Multiply inch by inch ");
         System.out.printf("%d & %d is %d%n", value2, value2, product);
         System.out.println("Convert pound to Kilogram ");
         System.out.printf("%d & 730 is %d%n", value1, result);
